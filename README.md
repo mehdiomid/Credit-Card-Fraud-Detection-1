@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection: Part 1 Data exploration and visualization
+# Credit Card Fraud Detection
 
 Fraudulent transactions are the major problem for e-commerce business today.
 
